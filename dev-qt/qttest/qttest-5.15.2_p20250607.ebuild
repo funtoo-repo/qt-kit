@@ -1,14 +1,14 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
-KDE_ORG_COMMIT="128a1d2861ca5693e43e8b79fbd4278dcd451fbc"
+KDE_ORG_COMMIT="c5b9db065ca5682b0bee339197c847da8b2710c1"
 
 QT5_MODULE="qtbase"
 VIRTUALX_REQUIRED="test"
 inherit qt5-build
 
 DESCRIPTION="Unit testing library for the Qt5 framework"
-SRC_URI="https://invent.kde.org/qt/qt/qtbase/-/archive/128a1d2861ca5693e43e8b79fbd4278dcd451fbc/qtbase-128a1d2861ca5693e43e8b79fbd4278dcd451fbc.tar.bz2 -> qtbase-128a1d2861ca5693e43e8b79fbd4278dcd451fbc.tar.bz2"
+SRC_URI="https://invent.kde.org/qt/qt/qtbase/-/archive/c5b9db065ca5682b0bee339197c847da8b2710c1/qtbase-c5b9db065ca5682b0bee339197c847da8b2710c1.tar.bz2 -> qtbase-c5b9db065ca5682b0bee339197c847da8b2710c1.tar.bz2"
 
 KEYWORDS="*"
 
